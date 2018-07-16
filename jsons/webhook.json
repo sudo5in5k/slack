@@ -1,0 +1,10 @@
+{
+  "info":{
+    "URL":"YOUR_WEBHOOK_URL"
+  },
+  "payload":{
+    "text": "YOUR_TEXT",
+    "username": "BOT_NAME",
+    "channel":"YOUR_CHANNEL_NAME"
+  }
+}

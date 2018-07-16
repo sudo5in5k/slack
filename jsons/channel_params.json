@@ -1,0 +1,7 @@
+{
+  "channel":{
+    "ID":"YOUR_CHANNEL_ID",
+    "URL":"https://slack.com/api/channels.history",
+    "TOKEN":"YOUR_TOKEN"
+  }
+}
